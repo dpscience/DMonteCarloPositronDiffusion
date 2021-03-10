@@ -14,6 +14,9 @@ Copyright (c) 2021 Danny Petschke, Torsten Staab, Dominik Boras, Martin Klement 
 
 <b>DMonteCarloPositronDiffusion</b> - A simple Monte-Carlo simulation framework to study the diffusion of positrons. 
 
+<br>![MC_3D](/images/track_within_sphere.png)
+<br>![MC_1D](/images/1D_projection_of_track.png)
+
 # How to cite this Framework?
 
 * <b>You must cite the applied version of this software in your study.</b><br>
