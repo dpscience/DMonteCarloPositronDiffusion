@@ -19,6 +19,13 @@ Copyright (c) 2021 Danny Petschke (danny.petschke@uni-wuerzburg.de), Torsten Sta
 
 # How to cite this Framework?
 
-* <b>You must cite the applied version of this software in your study.</b><br>
+* <b>You should at least cite the applied version of this program in your study.</b><br>
+
+You can cite all versions by using the <b>DOI 10.5281/zenodo.4593107</b>. This DOI represents all versions, and will always resolve to the latest one.<br>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4593107.svg)](https://doi.org/10.5281/zenodo.4593107)
+
+## ``v1.x``
+<b>DMonteCarloPositronDiffusion v1.0</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4593108.svg)](https://doi.org/10.5281/zenodo.4593108)<br>
 
 
