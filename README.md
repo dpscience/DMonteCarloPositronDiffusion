@@ -10,7 +10,7 @@ Support this project and keep always updated by [following on github](https://gi
 
 ![badge-language](https://img.shields.io/badge/language-Python-blue)
 
-Copyright (c) 2021 Danny Petschke, Torsten Staab, Dominik Boras, Martin Klement (danny.petschke@uni-wuerzburg.de). All rights reserved.<br>
+Copyright (c) 2021 Danny Petschke (danny.petschke@uni-wuerzburg.de), Torsten Staab. All rights reserved.<br>
 
 <b>DMonteCarloPositronDiffusion</b> - A simple Monte-Carlo simulation framework to study the diffusion of positrons. 
 
